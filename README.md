@@ -1,3 +1,3 @@
 # Algorithms  labs
 
-Repository conains lab works during university algorithms course. 
+Repository contains lab works during university algorithms course. 
